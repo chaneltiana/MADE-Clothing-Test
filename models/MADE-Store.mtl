@@ -1,0 +1,31 @@
+# Rhino
+newmtl rope
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.8000 0.8000 0.8000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 204.0000
+map_Kd TexturesCom_Rope_SteelCable_512_albedo.tif
+newmtl Metal
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.0000 0.0000 0.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 24.7568
+newmtl wood floor
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.8000 0.8000 0.8000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 204.0000
+map_Kd seamless_black_fine_wood_texture_texturise.jpeg
+newmtl wall paint
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 0.2941 0.2941 0.2941
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 75.6049

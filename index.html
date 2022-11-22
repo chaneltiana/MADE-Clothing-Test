@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      
+        <a-assets>        
+            <a-asset-item id="store" src="models/MADE-Store.gltf"></a-asset-item>
+
+            <img id="sky" src="textures/concrete.jpeg">
+            <img id="test" src="textures/concrete.jpeg">
+        </a-assets>
+  
+        <a-sky color="white"></a-sky>
+        
+        <a-entity position="0 -20 0" gltf-model="#store"></a-entity>
+        
+    </a-scene>
+  </body>
+</html>
